@@ -202,6 +202,7 @@
     <Content Include="dist\main.bundle.js.map" />
     <Content Include="dist\monaco-editor.bundle.js.map" />
     <Content Include="dist\typescript.worker.js.map" />
+    <Content Include="manifest.json" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -236,7 +237,9 @@
     <Content Include="style\ref.css" />
     <Content Include="style\split-pane.css" />
     <Content Include="style\theme.css" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Service Include="{4A0DDDB5-7A95-4FBF-97CC-616D07737A77}" />
