@@ -236,6 +236,7 @@
     <Content Include="dist\monaco-editor.bundle.js.map" />
     <Content Include="dist\typescript.worker.js.map" />
     <Content Include="manifest.json" />
+    <Content Include="serviceWorker.js" />
     <Content Include="windows10\SplashScreen.scale-100.png" />
     <Content Include="windows10\SplashScreen.scale-125.png" />
     <Content Include="windows10\SplashScreen.scale-150.png" />
