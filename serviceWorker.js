@@ -1,4 +1,4 @@
-﻿var CACHE_NAME = "MKit-cache-v1";
+﻿var CACHE_NAME = "Electric-Typewriter-cache-v1";
 var urlsToCache = [
   "https://ishikawamasashi.github.io/Electric-Typewriter/",
   "https://ishikawamasashi.github.io/Electric-Typewriter/index.html",
