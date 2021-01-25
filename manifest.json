@@ -1,8 +1,8 @@
 {
   "dir": "ltr",
   "lang": "en",
-  "name": "Electric Typewriter",
-  "short_name": "Electric Typewr",
+  "name": "Electric-Typewriter",
+  "short_name": "ELEC-Typewriter",
   "scope": "/Electric-Typewriter/",
   "display": "browser",
   "start_url": "https://ishikawamasashi.github.io/Electric-Typewriter/",
